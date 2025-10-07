@@ -1,3 +1,3 @@
 Bài thực hành tập trung vào việc ứng dụng công cụ AI trong cấu hình phần cứng/phần mềm cơ bản và giải quyết sự cố kỹ thuật đơn giản trên máy tính Windows 10. Sử dụng các công cụ AI như Google Bard, chatGPT để tìm hiểu thông số phần cứng, hướng dẫn cài đặt phần mềm Notepad++, và xử lý các sự cố kỹ thuật như lỗi kết nối Wi-Fi và mở file Python lớn. Đồng thời, thực hành còn bao gồm việc tạo nội dung học tập bằng Canva AI và phân tích các nguyên tắc đạo đức khi sử dụng AI. Kết quả được lưu trữ và trình bày trên GitHub với đầy đủ tài liệu, hình ảnh minh họa và trích dẫn nguồn AI.
 NHiệm Vụ 3.1: “Infographic được tạo bằng Canva AI (Magic Design) vào ngày 7/10/2025.Nguồn ảnh: Unsplash (miễn phí bản quyền).”
-Nguồn: ChatGPT, Canva AI, Google Google Bard
+Nguồn: ChatGPT, Canva AI, Google Bard, Githup
